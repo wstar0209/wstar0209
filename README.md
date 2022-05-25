@@ -116,13 +116,6 @@
 
 <br />
 
-> GitHub Activity Graph
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/wstar0209/wstar0209"><img alt="wstar0209's activity graph" src="https://activity-graph.herokuapp.com/graph?username=wstar0209&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
-<br />
-
 <p align="right">
   <a href="https://github.com/wstar0209?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/wstar0209"/></a>
